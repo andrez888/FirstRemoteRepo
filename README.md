@@ -1,3 +1,4 @@
 # Paragon z warzywniaka
 Kto jest najlpeszym commiterem?
-esmeralda
+marian
+
